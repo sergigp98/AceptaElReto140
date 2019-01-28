@@ -57,7 +57,5 @@ public class AceptaElReto140 {
             }
             num = sc.nextInt();
         }
-        sc.close();
     }
-
 }
